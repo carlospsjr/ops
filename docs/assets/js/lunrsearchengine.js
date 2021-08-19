@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "https://carlospsjr.github.io/ops//ops//404.html",
+    "url": "https://carlospsjr.github.io/ops/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "https://carlospsjr.github.io/ops//ops//about",
-    "title": "Mediumish Template for Jekyll",
+    "url": "https://carlospsjr.github.io/ops/about",
+    "title": "Sobre",
     "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
     }, {
     "id": 2,
-    "url": "https://carlospsjr.github.io/ops//ops//categories",
-    "title": "Categories",
+    "url": "https://carlospsjr.github.io/ops/categories",
+    "title": "Categorias",
     "body": ""
     }, {
     "id": 3,
-    "url": "https://carlospsjr.github.io/ops//ops//",
+    "url": "https://carlospsjr.github.io/ops/",
     "title": "Home",
     "body": "{% if page. url == “/” %}       Destaque:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       Posts recentes:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 4,
-    "url": "https://carlospsjr.github.io/ops//ops//robots.txt",
+    "url": "https://carlospsjr.github.io/ops/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "https://carlospsjr.github.io/ops//ops//teste2/",
+    "url": "https://carlospsjr.github.io/ops/teste2/",
     "title": "Teste 2 sem destaque",
     "body": "2021/08/19 - Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property. How to use?: It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs: 12345678910---layout: posttitle:  Inception Movie author: johncategories: [ Jekyll, tutorial ]tags: [red, yellow]image: assets/images/11. jpgdescription:  My review of Inception movie. Actors, directing and more.  rating: 4. 5---"
     }, {
     "id": 6,
-    "url": "https://carlospsjr.github.io/ops//ops//teste1/",
+    "url": "https://carlospsjr.github.io/ops/teste1/",
     "title": "Teste 1 de destaque",
     "body": "2021/08/19 - Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property. How to use?: It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs: 12345678910---layout: posttitle:  Inception Movie author: johncategories: [ Jekyll, tutorial ]tags: [red, yellow]image: assets/images/11. jpgdescription:  My review of Inception movie. Actors, directing and more.  rating: 4. 5---"
     }];

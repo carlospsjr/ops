@@ -1,1 +1,1 @@
-Sitemap: https://carlospsjr.github.io/ops//ops/sitemap.xml
+Sitemap: https://carlospsjr.github.io/ops/sitemap.xml
