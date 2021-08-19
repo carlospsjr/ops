@@ -3,12 +3,12 @@ var documents = [{
     "id": 0,
     "url": "https://carlospsjr.github.io/ops/404.html",
     "title": "404",
-    "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
+    "body": "404 A página não existe!Favor usar a barra de busca no topo ou visitar a página principal! "
     }, {
     "id": 1,
     "url": "https://carlospsjr.github.io/ops/about",
     "title": "Sobre",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! "
     }, {
     "id": 2,
     "url": "https://carlospsjr.github.io/ops/categories",
