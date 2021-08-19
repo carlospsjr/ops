@@ -1,13 +1,12 @@
 # Site
 domain: carlospsjr.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-name: "Organização, Planejamento, Saúde"
-title: "Organização, Planejamento, Saúde"
-description: "Organização, Planejamento, Saúde"
+name: "Organização, Planejamento e Saúde"
+title: "Organização, Planejamento e Saúde"
+description: "Conteúdos sobre organização e planejamento da sua saúde nutricional"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /ops # the subpath of your site, e.g. /blog
-url: https://carlospsjr.github.io/ops/ # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: ''
+url: https://carlospsjr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
@@ -20,7 +19,7 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: 
     email: 
-    web: https://carlospsjr.github.io/ops/
+    web: https://carlospsjr.github.io/ops
     twitter: 
     description: "Mais conhecido como Sy"
 
