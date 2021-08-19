@@ -5,11 +5,10 @@ title: "Organização, Planejamento, Saúde"
 description: "Organização, Planejamento, Saúde"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /ops/ # the subpath of your site, e.g. /blog
+baseurl: /ops # the subpath of your site, e.g. /blog
 url: https://carlospsjr.github.io/ops/ # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: ''
 disqus: 'demowebsite'
-mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
